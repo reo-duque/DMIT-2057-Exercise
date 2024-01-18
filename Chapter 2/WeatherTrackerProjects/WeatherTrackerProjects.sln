@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionDocuments", "SolutionDocuments", "{F86E64FD-DA92-434E-B909-DDB108F3A719}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\..\..\_BISolutions\WeatherTrackerProjects\InstWeatherTrackerDW.sql = ..\..\..\..\..\..\..\..\_BISolutions\WeatherTrackerProjects\InstWeatherTrackerDW.sql
+		..\..\..\..\..\..\..\..\_BISolutions\WeatherTrackerProjects\SQLTransformations.sql = ..\..\..\..\..\..\..\..\_BISolutions\WeatherTrackerProjects\SQLTransformations.sql
+		..\..\..\..\..\..\..\..\_BISolutions\WeatherTrackerProjects\WeatherHistory.txt = ..\..\..\..\..\..\..\..\_BISolutions\WeatherTrackerProjects\WeatherHistory.txt
+		..\..\..\..\..\..\..\..\_BISolutions\WeatherTrackerProjects\WeatherTrackerETLPlan.xls = ..\..\..\..\..\..\..\..\_BISolutions\WeatherTrackerProjects\WeatherTrackerETLPlan.xls
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83E57F8E-AC9F-40FD-AA57-1B777E60CF38}
+	EndGlobalSection
+EndGlobal
